@@ -62,13 +62,13 @@ The **PCS Conformance Test Suite (PCS-CTS)** provides normative tests for valida
 
 ```
 Mansfield, S. (2026). Persistra RFC Series (PCS) — Specifications for Persistent Cognition.
-Exocortical Concepts, Inc. https://github.com/ExocorticalConcepts/pcs-spec
+Exocortical Concepts, Inc. https://github.com/TrendCraft/pcs-spec
 ```
 
 Individual RFCs:
 ```
 Mansfield, S. (2026). RFC-PCS-0001: Persistra Cognitive Standard — Core Architecture.
-Persistra RFC Series. https://github.com/ExocorticalConcepts/pcs-spec/blob/main/rfcs/RFC-PCS-0001.md
+Persistra RFC Series. https://github.com/TrendCraft/pcs-spec/blob/main/rfcs/RFC-PCS-0001.md
 ```
 
 ---
